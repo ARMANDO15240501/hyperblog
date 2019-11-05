@@ -11,6 +11,12 @@ body {
     margin: 0 auto;
 }
 
-h6 {
-    color: gray;
+.cabecera {
+    background: purple;
+    color: aliceblue;
+    width: 50%;
+}
+
+span {
+    text-decoration: bold;
 }
