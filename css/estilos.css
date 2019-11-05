@@ -10,3 +10,7 @@ body {
     border: 1px solid black;
     margin: 0 auto;
 }
+
+h6 {
+    color: gray;
+}
